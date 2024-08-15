@@ -6,7 +6,7 @@ This project is a Python and R program built to load a salary dataset and perfor
 
 ## Features
 - **Import Data**: I loaded the downloaded data into a pandas data frame
-- **Create Employee Feature**: I created a python function that accepts an employee name and returns the details of that employee
+- **Create Employee Function**: I created a python function that accepts an employee name and returns the details of that employee
 - **Data Processing with Dictionary**:  I processed the data using a python dictionary and structured the orientation of the output as a list of dictionaries
 - **Error Handling**: I created this to handle potential errors to ensure the program runs smoothly.
 - **Export Employee Details**: I created a function that export employee details and saves it in a zipped folder, based on the employee name provided. In my code, I tried out an example using the employee record of "Emmanuel Michel"
