@@ -14,6 +14,7 @@ This project is a Python and R program built to load a salary dataset and perfor
 
 ## Files Included
 - `Salary_Function_Assignment.ipynb`: This is my Python and R implementation of the Salary function.
+- `README.md`: This is me providing context on the project and instructions on how to use the code.
 - NB : I did NOT ZIP the submission files again because I saw an announcement asking us not to ZIP it again
 
 ## Running the Code
